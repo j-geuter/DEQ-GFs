@@ -1,0 +1,9 @@
+.idea
+.ipynb_checkpoints
+__pycache__/*
+kale-flow
+kale-flow/*
+MNISTPointCloud/*
+venv/*
+Images/*
+test.py
